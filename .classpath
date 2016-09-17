@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/prompt.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nathen/workspace/Tabako/lib/slf4j-1.7.21/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nathen/workspace/Tabako/lib/slf4j-1.7.21/slf4j-nop-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nathen/workspace/Tabako/lib/itext-5.5.9/itextpdf-5.5.9.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Nathen/workspace/Tabako/lib/itext-5.5.9/itextpdf-5.5.9-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Nathen/workspace/Tabako/lib/itext-5.5.9/itext-pdfa-5.5.9.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Nathen/workspace/Tabako/lib/itext-5.5.9/itext-pdfa-5.5.9-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Nathen/workspace/Tabako/lib/itext-5.5.9/itext-xtra-5.5.9.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Nathen/workspace/Tabako/lib/itext-5.5.9/itext-xtra-5.5.9-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Nathen/workspace/Tabako/lib/itext-5.5.9/xmlworker-5.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nathen/workspace/Tabako/lib/iText7-7.0.0/itext7-io-7.0.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Nathen/workspace/Tabako/lib/iText7-7.0.0/itext7-io-7.0.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Nathen/workspace/Tabako/lib/iText7-7.0.0/itext7-kernel-7.0.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Nathen/workspace/Tabako/lib/iText7-7.0.0/itext7-kernel-7.0.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Nathen/workspace/Tabako/lib/iText7-7.0.0/itext7-layout-7.0.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Nathen/workspace/Tabako/lib/iText7-7.0.0/itext7-layout-7.0.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Nathen/workspace/Tabako/lib/iText7-7.0.0/itext7-pdfa-7.0.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Nathen/workspace/Tabako/lib/iText7-7.0.0/itext7-pdfa-7.0.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
